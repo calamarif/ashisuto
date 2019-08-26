@@ -1,0 +1,6 @@
+# ignore a single file
+chromedriver
+pax_describe_source.code-workspace
+# ignore a file type
+*.log
+*.json
